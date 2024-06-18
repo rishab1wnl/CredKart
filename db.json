@@ -1,0 +1,32 @@
+{
+  "login": [
+    {
+      "fullname": "rishab ",
+      "email": "iamrishabtiwari@gmail.com",
+      "mobile": 1111111111,
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "fullname": "newboiiii",
+      "email": "new123@gmail.com",
+      "mobile": 213123123,
+      "password": "12334",
+      "id": 4
+    }
+  ],
+  "expensedata": [
+    {
+      "name": "Books",
+      "date": "2024-06-17T18:30:00.000Z",
+      "amount": 1200,
+      "comment": "Jyda Books hai ",
+      "selectedC": "Education",
+      "selectedM": "Axis Bank",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
