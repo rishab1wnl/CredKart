@@ -16,12 +16,21 @@ CredKart is a web application designed to streamline your daily expense manageme
 
 ### Technical Specifications:
 
-- **Frontend:** ![Angular Logo](https://angular.io/assets/images/logos/angular/angular.svg) Angular CLI version 14.2.8
-- **Backend:** Node.js with JSON Server
-- **UI Framework:** ![Bootstrap Logo](https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg) Bootstrap
-- **Data Visualization:** Jspdf
-- **Animations:** Lordicon
-- **Fonts:** Google Fonts
+- **Frontend:** 
+  - ![Angular Logo](https://angular.io/assets/images/logos/angular/angular.svg =30x) Angular CLI version 14.2.8
+  - ![Angular Material Logo](https://material.angular.io/assets/img/angular-material-logo.svg =30x) Angular Material
+  - ![HTML5 Logo](https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png =30x) HTML5
+  - ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg =30x) CSS
+- **Backend:** 
+  - ![Node.js Logo](https://nodejs.org/static/images/logo.svg =30x) Node.js with JSON Server
+- **UI Framework:** 
+  - ![Bootstrap Logo](https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg =30x) Bootstrap
+- **Data Visualization:** 
+  - Jspdf
+- **Animations:** 
+  - Lordicon
+- **Fonts:** 
+  - Google Fonts
 
 ### Getting Started:
 
