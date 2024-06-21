@@ -11,16 +11,16 @@ export class ApiService {
   ) { }
 
   postData (data:any) {
-    return this.http.post<any>("http://localhost:3000/expensedata/", data)
+    return this.http.post<any>("https://mockserver-3q9t.onrender.com/expensedata", data)
   }
   getData () {
-    return this.http.get<any>("http://localhost:3000/expensedata")
+    return this.http.get<any>("https://mockserver-3q9t.onrender.com/expensedata")
   }
   deleteData (id:number) {
-    return this.http.delete<any>("http://localhost:3000/expensedata/" +id)
+    return this.http.delete<any>("https://mockserver-3q9t.onrender.com/expensedata" +id)
   }
 
   putData( data: any , id : number) {
-    return this.http.put<any>("http://localhost:3000/expensedata/" +id , data)
+    return this.http.put<any>("https://mockserver-3q9t.onrender.com/expensedata" +id , data)
   }
 }
