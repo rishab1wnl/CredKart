@@ -51,3 +51,5 @@ CredKart is a web application designed to streamline your daily expense manageme
 - http://localhost:3000/expensedata - Expense Data Retrieval
 
 **Let CredKart empower you to take control of your finances!**
+ > *This project was developed with ❤️ and ☕ by [rishab1wnl](https://github.com/rishab1wnl) *
+
