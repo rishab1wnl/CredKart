@@ -2,7 +2,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-[![CSS Badge](https://img.shields.io/badge/CSS-latest-blue?logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-latest-green?logo=node.js)](https://nodejs.org/)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-5.0-purple?logo=bootstrap)](https://getbootstrap.com/docs/5.0/)
 
